@@ -1,4 +1,5 @@
-# 🌿 GreenShort
+Listo, corregido. Aquí tienes la versión actualizada:
+Markdown# 🌿 GreenShort
 
 **Self-hosted URL shortener that runs entirely on Cloudflare.**  
 No servers • No external databases • No dependencies  
@@ -11,7 +12,7 @@ Everything lives inside your Cloudflare account using **Pages**, **D1**, **Worke
   </a>
   &nbsp;
   <a href="https://greenshort.pages.dev">
-    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Presentation-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Presentation">
   </a>
   &nbsp;
   <a href="https://github.com/GS-URL/GreenShort/fork">
@@ -145,7 +146,7 @@ Open source. Check the repository for the exact license terms.
   </a>
   &nbsp;&nbsp;
   <a href="https://greenshort.pages.dev">
-    <img src="https://img.shields.io/badge/Demo-greenshort.pages.dev-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="greenshort.pages.dev">
+    <img src="https://img.shields.io/badge/Presentation-greenshort.pages.dev-00C853?style=for-the-badge&logo=cloudflare&logoColor=white" alt="greenshort.pages.dev">
   </a>
 </p>
 
