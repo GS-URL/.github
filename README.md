@@ -91,7 +91,8 @@ Admin dashboard authenticates with a single `SITE_TOKEN`.
 
 ## Recommended AI model
 @cf/moonshot-ai/kimi-k2.5
-textClean, short and contextually accurate slugs. Works great within the free Workers AI quota.
+
+Clean, short and contextually accurate slugs. Works great within the free Workers AI quota.
 
 ---
 
