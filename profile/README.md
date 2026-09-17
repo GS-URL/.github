@@ -1,5 +1,5 @@
-Listo, corregido. Aquí tienes la versión actualizada:
-Markdown# 🌿 GreenShort
+
+# 🌿 GreenShort
 
 **Self-hosted URL shortener that runs entirely on Cloudflare.**  
 No servers • No external databases • No dependencies  
